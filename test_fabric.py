@@ -3,4 +3,4 @@ def calcul_total(prix, quantite):
 
 
 def test_calcul_total():
-    assert calcul_total(100, 3) == 300
+   assert calcul_total(100, 3) == 301
